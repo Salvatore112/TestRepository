@@ -8,4 +8,9 @@ internal class TestClass
     {
         return input + input;
     }
+
+    public int BrandNewFunction(int brandNewInput)
+    {
+        return brandNewInput;
+    }
 }
